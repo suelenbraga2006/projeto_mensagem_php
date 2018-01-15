@@ -9,5 +9,5 @@ Usuários comuns só podem ver suas mensagens através do pop-up na página inic
 - Bootstrap 4
 
 ## Como usar?
-Basta clonar a pasta, importar o banco de dados sql que está na pasta e abrir no navegador.
+Basta clonar a pasta, importar o banco de dados sql e abrir no navegador.
 Login do administrador: email admin@gmail.com, senha 123.
